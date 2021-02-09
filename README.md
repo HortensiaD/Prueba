@@ -7,4 +7,6 @@ Texto
 * Primer paso
 * Segundo paso
 * Tercer paso
-
+## Imagen
+![hipopotamo]
+(imagenparaprueba.jpg)
