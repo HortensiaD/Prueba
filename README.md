@@ -10,4 +10,4 @@ Texto
 ## Imagen
 ![hipopotamo]
 (imagenparaprueba.jpg)
-gggggggggggggggggggggggggggggggggggggggggggggggggg
+
